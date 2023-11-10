@@ -1,6 +1,6 @@
 {
   "name": "@yourgpt/llmspark-nodejs",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Nodejs Package for LLM Spark - Dev Platform for Production-Ready LLM Apps.",
   "main": "./dist/index.js",
   "private": false,
