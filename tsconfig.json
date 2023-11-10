@@ -1,0 +1,19 @@
+{
+  "compilerOptions": {
+      "extendedDiagnostics": true,
+      "strict": true,
+      "target": "ESNext",
+      "module": "CommonJS",
+      "moduleResolution": "node",
+      "esModuleInterop": true,
+      "skipLibCheck": true,
+      "declaration": true,
+      "noUnusedParameters": true,
+      "outDir": "./dist",
+      "rootDir": "./src"
+  },
+  "include": [
+      "src"
+  ],
+  "exclude": []
+}
