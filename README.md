@@ -1,6 +1,6 @@
 # @yourgpt/llmspark-nodejs
 
-This @yourgpt/llmspark-nodejs package provides convenient access to the yourgpt.ai/llm-spark REST API from JavaScript. It allows you to interact with the API and harness the power of AI for various tasks.
+This @yourgpt/llmspark-nodejs package provides convenient access to the [LLM Spark](https://yourgpt.ai/llm-spark) REST API from JavaScript. It allows you to interact with the API and harness the power of AI for various tasks.
 
 
 ## Installation

@@ -14,14 +14,23 @@
   "keywords": [
     "yourgpt",
     "llmspark",
+    "llm spark",
+    "llm-spark",
+    "llm spark nodejs",
+    "llm-spark-nodejs",
+    "llm spark node.js",
+    "spark llm",
     "llm",
     "gpt",
-    "rag",
     "gpt4",
     "claude2",
     "anthropic",
+    "vertex ai",
     "palm",
-    "text-bison"
+    "text-bison",
+    "rag",
+    "rag chatbot",
+    "rag-chatbot"
   ],
   "devDependencies": {
     "@types/jest": "^29.5.6",
